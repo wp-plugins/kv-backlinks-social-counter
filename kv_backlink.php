@@ -2,8 +2,8 @@
 /*
 Plugin Name: KV Google BackLink Checker Dashbaord
 Plugin URI: http://kvcodes.com
-Description: A simple wordpress plugin to get your Wordpres CMS Backlink and page rank.  its light weight and simple. 
-Version: 1.0
+Description: A simple wordpress plugin to get your Wordpres CMS Backlink and page rank.  its light weight and simple.  <a href="http://www.kvcodes.com" target="_blank" > Read more </a> 
+Version: 1.1
 Author: kvvaradha
 Author URI: http://profiles.wordpress.org/kvvaradha
 */
